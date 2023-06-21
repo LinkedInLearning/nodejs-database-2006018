@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  migrations:
+    image: migrate/migrate
+    container_name: migrations
+    volumes:
+      - './migrations:/migrations'
+    command: ["-path", "/migrations", "-database", "postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@${POSTGRES_INTERNAL_HOST}:5432/${POSTGRES_DB}?sslmode=disable&search_path=public", "goto", "${VERSION}"]
+    networks:
+      - database
+
+networks:
+  database:
+    external: true

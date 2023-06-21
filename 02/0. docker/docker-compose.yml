@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+
+  pgDatabase:
+    image: postgres:13.5
+    container_name: pgDatabase
+    env_file:
+      - .env
+    command: postgres -c 'config_file=/etc/postgres/postgres.conf'
+    volumes:
+      - "./postgres.conf:/etc/postgres/postgres.conf:rw"
+      - "./database:/var/lib/postgresql/data:rw"
+    ports:
+      - "5432:5432"
+    networks:
+      - database
+
+networks:
+  database:
+    external: true
