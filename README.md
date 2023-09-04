@@ -13,10 +13,10 @@ Ce dossier Repository a une seule branche, sur laquelle se trouvent tous les fic
 ## Branches
 
 Les dossiers à la racine, sont structurés de manière à correspondre aux chapitre du cours. 
-```02```` correspond aux codes du chapitre 2.
+`02` correspond aux codes du chapitre 2.
 Dans chacun des dossiers se trouvant à la racine, vous trouverez différents dossiers qui sont structurés de manière à correspondre aux vidéos du chapitre choisis.
-Le dossier ```02_02\debut``` correspond au code du début de la vidéo numéro 2 du chapitre 2.
-Le dossier ```02_02\fin``` correspond au code de la fin de la vidéo numéro 3 du chapitre 2.
+Le dossier `02_02\debut` correspond au code du début de la vidéo numéro 2 du chapitre 2.
+Le dossier `02_02\fin` correspond au code de la fin de la vidéo numéro 3 du chapitre 2.
 
 
 ## Installation
