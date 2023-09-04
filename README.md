@@ -19,7 +19,7 @@ Le dossier `02_02\debut` correspond au code du début de la vidéo numéro 2 du 
 Le dossier `02_02\fin` correspond au code de la fin de la vidéo numéro 3 du chapitre 2.
 
 
-## Formateur
+## Formatrice
 
 **Nina Kapinga** 
 
