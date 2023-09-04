@@ -19,12 +19,6 @@ Le dossier `02_02\debut` correspond au code du début de la vidéo numéro 2 du 
 Le dossier `02_02\fin` correspond au code de la fin de la vidéo numéro 3 du chapitre 2.
 
 
-## Installation
-
-1. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-2. [Instructions spécifiques au cours] 
-
-
 ### Formateur
 
 **Nina Kapinga** 
