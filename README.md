@@ -26,4 +26,4 @@ Le dossier `02_02\fin` correspond au code de la fin de la vidéo numéro 3 du ch
  Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nina-kapinga).
  
 [lil-course-url]: https://www.linkedin.com/learning/node-js-les-bases-de-donnees/bienvenue-dans-node-js-les-bases-de-donnees
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGfinyC7DpsaA/learning-public-crop_675_1200/0/1692180656097?e=1694415600&v=beta&t=waxUsFI_xdGJbjweKe61Q73zJqt8VGv9qKtRHUjYs2Y
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGfinyC7DpsaA/learning-public-crop_675_1200/0/1692180656097?e=2147483647&v=beta&t=Lf247F8W9DeAL1H7FN6gbUe7I5OLmu_cdn9gII4XL4g
